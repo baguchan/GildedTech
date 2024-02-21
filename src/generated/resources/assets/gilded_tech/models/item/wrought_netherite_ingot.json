@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gilded_tech:item/wrought_netherite_ingot"
+  }
+}

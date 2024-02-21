@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "gilded_tech:netherite_powder"
+  },
+  "result": "gilded_tech:wrought_netherite_nugget"
+}

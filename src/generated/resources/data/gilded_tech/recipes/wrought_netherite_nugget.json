@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "gilded_tech:wrought_netherite_ingot"
+    }
+  ],
+  "result": {
+    "item": "gilded_tech:wrought_netherite_nugget"
+  }
+}

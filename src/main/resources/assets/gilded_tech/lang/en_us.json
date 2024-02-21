@@ -1,0 +1,19 @@
+{
+  "item.gilded_tech.wrought_netherite_ingot": "Wrought Netherite Ingot",
+  "item.gilded_tech.wrought_netherite_nugget": "Wrought Netherite Nugget",
+  "item.gilded_tech.netherite_powder": "Netherite Powder",
+  "item.gilded_tech.wrought_netherite_sword": "Wrought Netherite Sword",
+  "item.gilded_tech.wrought_netherite_pickaxe": "Wrought Netherite Pickaxe",
+  "item.gilded_tech.wrought_netherite_axe": "Wrought Netherite Axe",
+  "item.gilded_tech.wrought_netherite_shovel": "Wrought Netherite Shovel",
+  "item.gilded_tech.wrought_netherite_hoe": "Wrought Netherite Hoe",
+  "item.gilded_tech.wrought_netherite_helmet": "Wrought Netherite Helmet",
+  "item.gilded_tech.wrought_netherite_chestplate": "Wrought Netherite Chest Plate",
+  "item.gilded_tech.wrought_netherite_leggings": "Wrought Netherite Leggings",
+  "item.gilded_tech.wrought_netherite_boots": "Wrought Netherite Boots",
+  "item.gilded_tech.host_compact_spawner": "Host Compact Spawner",
+  "item.gilded_tech.host_compact_spawner.tooltip.mobs": "Mobs",
+  "item.gilded_tech.host_compact_spawner.tooltip": "Shift Mouse Scroll then select Mob. right click then summon",
+  "item.gilded_tech.host_compact_spawner.tooltip2": "Shift Right Click then store your friendly mob.",
+  "entity.gilded_tech.gather_allay": "Gather Allay"
+}

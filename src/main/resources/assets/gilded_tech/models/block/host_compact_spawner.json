@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_type": "cutout",
+  "textures": {
+    "all": "gilded_tech:block/host_compact_spawner"
+  }
+}

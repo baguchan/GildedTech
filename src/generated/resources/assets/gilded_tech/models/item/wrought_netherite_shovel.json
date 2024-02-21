@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "gilded_tech:item/wrought_netherite_shovel"
+  }
+}
